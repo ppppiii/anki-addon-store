@@ -1,0 +1,187 @@
+{
+  "1771074083": {
+    "category": "stats",
+    "summary_en": "GitHub-style activity heatmap showing past and future Anki review counts.",
+    "summary_zh": "类 GitHub 热力图，直观展示每日刷卡记录与未来待复习分布。"
+  },
+  "759844606": {
+    "category": "scheduling",
+    "summary_en": "FSRS helper tools: reschedule, disperse siblings, postpone, and advance cards.",
+    "summary_zh": "FSRS 调度助手：重排进度、分散同笔记姐妹卡、一键推迟或提前复习。"
+  },
+  "2055492159": {
+    "category": "sync",
+    "summary_en": "Local HTTP API server enabling external scripts, Yomitan, and tools to control Anki.",
+    "summary_zh": "提供本地 HTTP 接口，支持 Yomitan、外部脚本和 AI 工具联动控制 Anki。"
+  },
+  "1374772155": {
+    "category": "editor",
+    "summary_en": "Create image occlusion flashcards directly inside Anki by masking parts of images.",
+    "summary_zh": "图像遮挡制卡神器，框选解剖图/思维导图区域直接生成填空卡。"
+  },
+  "1436550454": {
+    "category": "language",
+    "summary_en": "Batch and on-the-fly text-to-speech audio generation using multiple TTS services.",
+    "summary_zh": "老牌离线/在线语音合成插件，为单词与例句批量生成真人级发音。"
+  },
+  "111623432": {
+    "category": "language",
+    "summary_en": "Modern TTS audio generator supporting Azure, ElevenLabs, Google, and Easy mode.",
+    "summary_zh": "现代版多引擎 TTS 发音插件，支持 Azure/ElevenLabs 等高清语音批量配音。"
+  },
+  "1908235722": {
+    "category": "stats",
+    "summary_en": "Turn Anki reviews into a Pokemon-style RPG with battles, XP, and collection.",
+    "summary_zh": "刷卡养宠游戏化插件：每答对卡片就能遇敌、抓宠与升级。"
+  },
+  "236979321": {
+    "category": "ui",
+    "summary_en": "All-in-one modern Anki workspace redesign with dashboards, widgets, and themes.",
+    "summary_zh": "一体化现代 Anki 工作台改造，重塑主页仪表盘与全局学习界面。"
+  },
+  "1011095603": {
+    "category": "ui",
+    "summary_en": "Clean modern Anki homepage redesign with customizable themes, stats, and widgets.",
+    "summary_zh": "清爽现代风 Anki 主页重设计插件，提供美化牌组列表与统计小组件。"
+  },
+  "1672272680": {
+    "category": "sync",
+    "summary_en": "Lossless incremental deck sync preserving 100% FSRS/SM-2 progress and media.",
+    "summary_zh": "卡组无损增量同步：一键导出/导入改动与模板，100% 保留 FSRS 复习进度。"
+  },
+  "1210908941": {
+    "category": "ui",
+    "summary_en": "Set custom wallpapers, transparency, and custom icons on Anki main screens.",
+    "summary_zh": "自定义 Anki 主页背景图片、透明卡片面板与牌组齿轮图标。"
+  },
+  "874215009": {
+    "category": "browser",
+    "summary_en": "Add sortable custom columns (fields, stats, lapses) to Anki's Card Browser.",
+    "summary_zh": "卡片浏览器增强：支持按任意字段、遗忘次数、间隔等丰富列排序。"
+  },
+  "1052724801": {
+    "category": "browser",
+    "summary_en": "Visual search builder popup for filtering tags, decks, note types, and dates.",
+    "summary_zh": "搜索语法可视化助手，弹窗点选牌组、标签、模板与日期组合检索。"
+  },
+  "291119185": {
+    "category": "editor",
+    "summary_en": "Batch edit, append, replace, or format fields across selected notes in Browser.",
+    "summary_zh": "在浏览器中批量修改、前后追加、查找替换选中笔记的指定字段。"
+  },
+  "2494384865": {
+    "category": "review",
+    "summary_en": "Colorize the Again / Hard / Good / Easy answer buttons for clearer feedback.",
+    "summary_zh": "为复习底部的重来/困难/良好/简单四个按钮加上醒目配色区分。"
+  },
+  "1715096333": {
+    "category": "review",
+    "summary_en": "Review flashcards using a game controller or gamepad with custom mappings.",
+    "summary_zh": "手柄刷卡插件：支持 Xbox/Switch/PS 手柄自定义按键复习。"
+  },
+  "817108664": {
+    "category": "review",
+    "summary_en": "Auto-alert and auto-flip/rate cards after a countdown timer expires.",
+    "summary_zh": "限时专注刷卡模式：每张卡超时提醒或自动翻面/判分，治拖延。"
+  },
+  "1722658993": {
+    "category": "stats",
+    "summary_en": "Simulate future daily workload and retention curves over months or years.",
+    "summary_zh": "未来复习量模拟器：按当前新卡与遗忘率推演未来几个月的刷卡压力。"
+  },
+  "1136455830": {
+    "category": "review",
+    "summary_en": "Simplify 4 answer buttons down to 2 (Pass / Fail) during reviews.",
+    "summary_zh": "将复习界面 4 个评分按钮极简合并为「通过 / 重来」两键。"
+  },
+  "1431333984": {
+    "category": "stats",
+    "summary_en": "Gamified HP bar that drains on hesitation and heals when answering cards.",
+    "summary_zh": "复习血条挑战：犹豫超时扣血、答对回血，提升刷卡紧迫感。"
+  },
+  "1990296174": {
+    "category": "stats",
+    "summary_en": "Study leaderboard to compete with friends and study groups inside Anki.",
+    "summary_zh": "Anki 学习排行榜，和好友或学习小组比拼每日刷卡数与连续天数。"
+  },
+  "805891399": {
+    "category": "editor",
+    "summary_en": "Rich-text field editor adding tables, regex search & replace, and HTML tools.",
+    "summary_zh": "制卡编辑器大增强：支持表格编辑、正则查找替换与源码美化。"
+  },
+  "613684242": {
+    "category": "editor",
+    "summary_en": "True-color & custom styling support inside Anki's note editor.",
+    "summary_zh": "增强编辑器配色与样式控制，支持快捷设置文本高亮色。"
+  },
+  "24411424": {
+    "category": "review",
+    "summary_en": "Customize keyboard shortcuts across Reviewer, Browser, and Main Window.",
+    "summary_zh": "全局快捷键自定义插件，可自由重映射刷卡、浏览器与菜单热键。"
+  },
+  "1322529746": {
+    "category": "sync",
+    "summary_en": "Official AnkiHub client for real-time collaborative deck updates and suggestions.",
+    "summary_zh": "AnkiHub 官方协作同步客户端，支持多人协作改卡与实时订阅更新。"
+  },
+  "385888438": {
+    "category": "editor",
+    "summary_en": "Edit card fields directly during review without opening the Edit window.",
+    "summary_zh": "刷卡背面直接双击原位改字，无需反复弹出编辑窗口。"
+  },
+  "1020366288": {
+    "category": "review",
+    "summary_en": "Highlight or color-code answer buttons and show card scheduling info.",
+    "summary_zh": "复习界面增强与快捷状态栏，直观显示当前卡片调度状态。"
+  },
+  "594329229": {
+    "category": "ui",
+    "summary_en": "Show remaining cards, progress bar, and percentage during review sessions.",
+    "summary_zh": "复习顶部进度条：实时显示本轮已完成比例与剩余卡数。"
+  },
+  "374005964": {
+    "category": "ui",
+    "summary_en": "Redesigns the bottom review buttons with custom icons, colors, and layout.",
+    "summary_zh": "美化复习底部按钮区，支持自定义圆角、间距与图标风格。"
+  },
+  "1949865265": {
+    "category": "scheduling",
+    "summary_en": "Automatically bury or suspend leech / sibling cards with flexible rules.",
+    "summary_zh": "按自定义规则自动搁置姐妹卡、难点卡或调整复习队列顺序。"
+  },
+  "1423933177": {
+    "category": "language",
+    "summary_en": "Add ruby furigana / pinyin annotations and Japanese morphological support.",
+    "summary_zh": "日语假名标注（Furigana）与中文拼音自动注音制卡工具。"
+  },
+  "1369209403": {
+    "category": "language",
+    "summary_en": "Batch generate Migaku / Japanese pitch accent, audio, and dictionary fields.",
+    "summary_zh": "外语词库自动化填充，支持音调、例句与词典释义批量抓取。"
+  },
+  "1151815987": {
+    "category": "media",
+    "summary_en": "Clean up, compress, or resize oversized images and unused media files.",
+    "summary_zh": "本地媒体瘦身工具：批量压缩大图尺寸，减少同步空间占用。"
+  },
+  "1898790263": {
+    "category": "tools",
+    "summary_en": "Add custom buttons, quick actions, and developer debug helpers to Anki.",
+    "summary_zh": "Anki 扩展工具集，提供便捷诊断与调试辅助功能。"
+  },
+  "952691989": {
+    "category": "browser",
+    "summary_en": "Copy cards, move notes cleanly, or duplicate notes with one click in Browser.",
+    "summary_zh": "浏览器快捷克隆笔记，保留全部字段内容一键复制新卡。"
+  },
+  "1779572689": {
+    "category": "ui",
+    "summary_en": "Change Anki's global UI font, font size, and custom theme CSS styles.",
+    "summary_zh": "自定义 Anki 全局界面字体、字号与卡片外观主题。"
+  },
+  "2006528466": {
+    "category": "tools",
+    "summary_en": "In-app community add-on marketplace with categories, compatibility checks, reviews, and 1-click install.",
+    "summary_zh": "Anki 内置插件市场：按分类浏览全量插件、识别兼容与活跃度、直看评论并原生一键安装。"
+  }
+}

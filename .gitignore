@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+dist/
+data/catalog.json
+anki_addon_store/user_files/
+anki_addon_store/meta.json
+.venv/
+.pytest_cache/
+.env*
+*.key
+*.pem
+*.kdbx
+*.db
+node_modules/

@@ -1,0 +1,10 @@
+{
+  "package": "anki_addon_store",
+  "name": "插件市场 / Anki Add-on Store",
+  "mod": 1795656000,
+  "min_point_version": 60,
+  "max_point_version": 0,
+  "conflicts": [],
+  "tags": ["store", "marketplace", "addons", "browser"],
+  "homepage": "https://github.com/ppppiii/anki-addon-store"
+}

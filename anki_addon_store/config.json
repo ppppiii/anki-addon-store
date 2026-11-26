@@ -1,0 +1,5 @@
+{
+  "language": "auto",
+  "catalog_url": "https://raw.githubusercontent.com/ppppiii/anki-addon-store/main/data/catalog.json.gz",
+  "cache_ttl_hours": 12
+}

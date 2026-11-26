@@ -1,0 +1,48 @@
+<div id="app" class="store-shell">
+  <aside class="sidebar">
+    <div class="brand" id="brand-title"></div>
+    <nav id="cat-list" class="cat-list"></nav>
+    <div class="sidebar-foot" id="source-badge"></div>
+  </aside>
+
+  <section class="workspace">
+    <header class="topbar">
+      <input id="search-input" class="search-input" type="search" autocomplete="off" />
+      <button id="btn-compat" class="pill-btn" type="button"></button>
+      <button id="btn-active" class="pill-btn" type="button"></button>
+      <select id="sort-select" class="sort-select"></select>
+      <button id="btn-sort-dir" class="tool-btn" type="button"></button>
+      <button id="btn-updates" class="tool-btn" type="button"></button>
+      <button id="btn-refresh" class="tool-btn" type="button"></button>
+    </header>
+
+    <div class="meta-bar">
+      <span id="count-label" class="count-label"></span>
+      <span id="status-msg" class="status-msg"></span>
+    </div>
+
+    <div id="grid-wrap" class="grid-wrap">
+      <div id="card-grid" class="card-grid"></div>
+      <div id="empty-state" class="empty-state hidden"></div>
+      <div class="load-more-wrap">
+        <button id="btn-load-more" class="load-more-btn hidden" type="button"></button>
+      </div>
+    </div>
+  </section>
+
+  <div id="drawer-backdrop" class="drawer-backdrop hidden"></div>
+  <aside id="detail-drawer" class="detail-drawer hidden">
+    <div class="drawer-head">
+      <div class="drawer-title-wrap">
+        <h2 id="drawer-title" class="drawer-title"></h2>
+        <div id="drawer-badges" class="drawer-badges"></div>
+      </div>
+      <button id="drawer-close" class="close-btn" type="button">✕</button>
+    </div>
+    <div id="drawer-actions" class="drawer-actions"></div>
+    <div id="drawer-meta" class="drawer-meta"></div>
+    <div id="drawer-tags" class="drawer-tags"></div>
+    <div id="drawer-desc" class="drawer-desc"></div>
+    <section id="drawer-reviews" class="drawer-reviews hidden"></section>
+  </aside>
+</div>
